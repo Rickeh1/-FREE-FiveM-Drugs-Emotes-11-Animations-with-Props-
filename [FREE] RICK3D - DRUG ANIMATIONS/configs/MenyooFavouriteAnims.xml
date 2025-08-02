@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<PedAnims>
+    <Anim dict="rick_drugemotes@animations" name="heroin_clip" />
+    <Anim dict="rick_drugemotes@animations" name="rollblunt1_clip" />
+    <Anim dict="rick_drugemotes@animations" name="coketube_clip" />
+    <Anim dict="rick_drugemotes@animations" name="cigarntorch_clip" />
+    <Anim dict="rick_drugemotes@animations" name="cigarntorch_idle_clip" />
+    <Anim dict="rick_drugemotes@animations" name="methsmoke_clip" />
+    <Anim dict="rick_drugemotes@animations" name="cokesniff_clip" />
+    <Anim dict="rick_drugemotes@animations" name="morphineleg_clip" />
+    <Anim dict="rick_drugemotes@animations" name="takingpills_clip" />
+    <Anim dict="rick_drugemotes@animations" name="sellingdope_clip" />
+    <Anim dict="rick_drugemotes@animations" name="selldrugs_clip" />
+    <Anim dict="rick_drugemotes@animations" name="snortingcoke_clip" />
+</PedAnims>
